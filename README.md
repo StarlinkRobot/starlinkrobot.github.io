@@ -34,8 +34,6 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - PDF Poster
 - Bibtex citation
 
-test
-
 ## Tips:
 - The `index.html` file contains comments instructing you what to replace, you should follow these comments.
 - The `meta` tags in the `index.html` file are used to provide metadata about your paper 
